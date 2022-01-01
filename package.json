@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jclarke0000/MMM-MyCalendar#readme",
   "dependencies": {
+    "request": "^2.88.2",
+    "rrule-alt": "^2.2.8",
     "valid-url": "^1.0.9"
   }
 }
